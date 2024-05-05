@@ -10,7 +10,7 @@
 </p>
 
 
-Project elaborated to resolve <a href="https://github.com/PicPay/picpay-desafio-backend?tab=readme-ov-file">this</a> codding challenge.
+Project elaborated to solve <a href="https://github.com/PicPay/picpay-desafio-backend?tab=readme-ov-file">this</a> codding challenge.
 
 <p align="center">
   <a href="#key-technologies">Key Technologies</a> •

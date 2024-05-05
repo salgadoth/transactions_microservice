@@ -30,7 +30,7 @@ Project elaborated to solve <a href="https://github.com/PicPay/picpay-desafio-ba
 
 ## How To Deploy
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Java 21](https://www.oracle.com/au/java/technologies/downloads/)), [Docker Engine](https://docs.docker.com/engine/install/), an IDE of your choice to execute the SpringBoot application (I recommend IntelliJ) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Java 21](https://www.oracle.com/au/java/technologies/downloads/), [Docker Engine](https://docs.docker.com/engine/install/), an IDE of your choice to execute the SpringBoot application (I recommend IntelliJ) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository

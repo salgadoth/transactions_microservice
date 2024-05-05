@@ -1,10 +1,10 @@
 <h1 align="center">Transactions Microservice (a Senior Back-End Challenge)</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-salgado-3a1174200/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-salgado-3a1174200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue" />
   </a>
   
-  <a href="https://medium.com/@salgadoth" target="_blank">
+  <a href="https://medium.com/@salgadoth">
     <img src="https://img.shields.io/badge/medium-black" />
   </a>
 </p>
@@ -16,6 +16,7 @@ Project elaborated to resolve <a href="https://github.com/PicPay/picpay-desafio-
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#how-to-deploy">How To Deploy</a> •
   <a href="#api">API</a> •
+  <a href="#architecture">Architectures</a> 
 </p>
 
 ## Key Technologies
